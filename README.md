@@ -145,6 +145,6 @@ These skills support work in application development, secure software engineerin
 
 **Deanna Talton**
 
-Computer Science Student and Software Developer
+Computer Science Student
 
 [GitHub Profile](https://github.com/Deanna-Talton)
